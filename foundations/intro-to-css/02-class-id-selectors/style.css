@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.one,.three,.five{
+
+    background-color: #ffc0cb;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+#id-second{
+    color: #3b05ff;
+    font-size: 36px; 
+}
+#id-fourth{
+    background-color: #9beaa1;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.font-size{
+    font-size: 24px;
+}
